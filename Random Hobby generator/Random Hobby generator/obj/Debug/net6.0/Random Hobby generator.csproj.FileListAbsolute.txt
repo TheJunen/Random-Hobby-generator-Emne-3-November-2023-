@@ -1,0 +1,14 @@
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Random Hobby generator\Random Hobby generator\bin\Debug\net6.0\Random Hobby generator.exe
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Random Hobby generator\Random Hobby generator\bin\Debug\net6.0\Random Hobby generator.deps.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Random Hobby generator\Random Hobby generator\bin\Debug\net6.0\Random Hobby generator.runtimeconfig.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Random Hobby generator\Random Hobby generator\bin\Debug\net6.0\Random Hobby generator.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Random Hobby generator\Random Hobby generator\bin\Debug\net6.0\Random Hobby generator.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Random Hobby generator\Random Hobby generator\obj\Debug\net6.0\Random Hobby generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Random Hobby generator\Random Hobby generator\obj\Debug\net6.0\Random Hobby generator.AssemblyInfoInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Random Hobby generator\Random Hobby generator\obj\Debug\net6.0\Random Hobby generator.AssemblyInfo.cs
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Random Hobby generator\Random Hobby generator\obj\Debug\net6.0\Random Hobby generator.csproj.CoreCompileInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Random Hobby generator\Random Hobby generator\obj\Debug\net6.0\Random Hobby generator.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Random Hobby generator\Random Hobby generator\obj\Debug\net6.0\refint\Random Hobby generator.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Random Hobby generator\Random Hobby generator\obj\Debug\net6.0\Random Hobby generator.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Random Hobby generator\Random Hobby generator\obj\Debug\net6.0\Random Hobby generator.genruntimeconfig.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Random Hobby generator\Random Hobby generator\obj\Debug\net6.0\ref\Random Hobby generator.dll
